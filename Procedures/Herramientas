@@ -1,0 +1,8 @@
+USE CRUD_API_REST
+
+SELECT name
+
+FROM sys.procedures;
+
+/*
+FROM sys.databases;
